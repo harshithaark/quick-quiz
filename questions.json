@@ -1,0 +1,83 @@
+[
+    {
+        "question": "Inside which HTML element do we put the javascript?",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<js>",
+        "choice4": "<scripting>",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'app.js'?",
+        "choice1": "<script href='app.js'>",
+        "choice2": "<script name='app.js'>",
+        "choice3": "<script src='app.js'>",
+        "choice4": "<script file='app.js'>",
+        "answer": 3
+    },
+    {
+        "question": "How do you write 'Hello World' in an alert box?",
+        "choice1": "msgBox('Hello World');",
+        "choice2": "alertBox('Hello World');",
+        "choice3": "msg('Hello World');",
+        "choice4": "alert('Hello World');",
+        "answer": 4
+    },
+    {
+        "question": "How do you create a function in JavaScript?",
+        "choice1": "function myFunction()",
+        "choice2": "function:myFunction()",
+        "choice3": "function = myFunction()",
+        "choice4": "function => myFunction()",
+        "answer": 1
+    },
+    {
+        "question": "How do you call a function named 'myFunction'?",
+        "choice1": "call myFunction()",
+        "choice2": "myFunction()",
+        "choice3": "call function myFunction()",
+        "choice4": "execute myFunction()",
+        "answer": 2
+    },
+    {
+        "question": "Which event occurs when the user clicks on an HTML element?",
+        "choice1": "onchange",
+        "choice2": "onmouseclick",
+        "choice3": "onclick",
+        "choice4": "onmouseover",
+        "answer": 3
+    },
+    {
+        "question": "How do you add a comment in JavaScript?",
+        "choice1": "'This is a comment'",
+        "choice2": "<!-- This is a comment -->",
+        "choice3": "// This is a comment",
+        "choice4": "/* This is a comment */",
+        "answer": 3
+    },
+    {
+        "question": "What is the correct way to write a JavaScript array?",
+        "choice1": "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')",
+        "choice2": "var colors = (1:'red', 2:'green', 3:'blue')",
+        "choice3": "var colors = ['red', 'green', 'blue']",
+        "choice4": "var colors = 'red', 'green', 'blue'",
+        "answer": 3
+    },
+    {
+        "question": "How do you round the number 7.25 to the nearest integer?",
+        "choice1": "Math.round(7.25)",
+        "choice2": "round(7.25)",
+        "choice3": "Math.rnd(7.25)",
+        "choice4": "rnd(7.25)",
+        "answer": 1
+    },
+    {
+        "question": "How do you find the number with the highest value of x and y?",
+        "choice1": "Math.ceil(x, y)",
+        "choice2": "Math.max(x, y)",
+        "choice3": "top(x, y)",
+        "choice4": "ceil(x, y)",
+        "answer": 2
+    }
+
+]
